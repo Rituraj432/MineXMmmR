@@ -1,8 +1,7 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:ff6600&height=220&section=header&text=MineXMmmR&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Automated%20Monero%20(XMR)%20%26%20QRL%20CPU%20Mining%20Suite%20for%20Windows&descAlignY=62&descSize=18" width="100%" alt="MineXMmmR Header Banner" />
-
-  <br />
+  <h1>MineXMmmR</h1>
+  <p><strong>Automated Monero (XMR) &amp; QRL CPU Mining Suite for Windows</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows x64" />
